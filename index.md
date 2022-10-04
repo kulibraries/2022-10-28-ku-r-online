@@ -402,7 +402,7 @@ please preview your site before committing, and make sure to run
   Library Carpentry
   {% endif %}
   workshop,
-  you will need to install or update R, RStudio, and the R packages tidyverse, hexbin, patchwork, and RSQLite. Follow the instructions for your operating system at <a href="https://datacarpentry.org/R-ecology-lesson/#Preparations" target="_blank">the Preparations page</a>. You will also need to <a href="https://datacarpentry.org/R-ecology-lesson/#Download_the_data" target="_blank">download the data</a> and confirm that your preferred browser is up to date.
+  you will need access to an up-to-date web browser. We will access R, RStudio, and the workshop data through remote computing instances. You do not need to install R and RStudio on your computer.
 </p>
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
